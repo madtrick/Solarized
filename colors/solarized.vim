@@ -290,7 +290,6 @@ else
     let w:solarized_style = &background
 endif
 
-hi clear
 if exists("syntax_on")
   syntax reset
 endif
